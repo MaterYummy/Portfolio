@@ -104,6 +104,10 @@ a {
 	.nav-link {
 	  opacity: 50%;
 	}
+
+	.titlecard {
+		opacity: 100%;
+	  }
 	
 	.nav-link:hover {
 	opacity: 100%;
@@ -116,7 +120,7 @@ a {
 
 	
 	.navbar-expand-sm .navbar-collapse {
-		display: flex!important;
+		
 		flex-basis: auto;
 		justify-content: center;
 	}
